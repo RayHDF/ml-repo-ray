@@ -1,4 +1,9 @@
 ## Hello
 
 ### week-one
-boston-house.ipynb -> Basic data processing
+##### classification-heart-disease.ipynb
+##### regression-automobile.ipynb
+
+### week-two
+##### boston-house.ipynb
+##### classification-citarum-water.ipynb
