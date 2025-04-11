@@ -1,3 +1,3 @@
 ## Hello
 
-### waktu commit untuk folder tidak sesuai, bisa cek commit repo secara keseluruhan (untuk cek deadline)
+### waktu commit untuk folder tidak sesuai (karena mengubah nama folder), bisa cek commit repo secara keseluruhan (untuk cek deadline)
