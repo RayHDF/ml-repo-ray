@@ -23,3 +23,9 @@ build/
 # File extension
 *.xlsx
 *.csv
+*.pth
+
+test/
+train/
+val/
+
